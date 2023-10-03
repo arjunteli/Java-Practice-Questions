@@ -1,5 +1,5 @@
 import java.util.*;
-public class pritnSunArrays {
+public class PritnSunArrays {
     public static void subArray(int array[]){
 
         for(int i=0;i<array.length;i++){
