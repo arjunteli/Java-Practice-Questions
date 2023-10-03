@@ -1,6 +1,6 @@
 import java.lang.reflect.Array;
 import java.util.* ;
-public class anagrams {
+public class Anagrams {
     public static void anagrams( String str, String str2){
         //for the final output storing values
         String first = str;
