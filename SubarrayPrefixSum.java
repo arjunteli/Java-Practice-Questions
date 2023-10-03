@@ -1,5 +1,5 @@
 import java.util.*;
-public class subarrayPrefixSum {
+public class SubarrayPrefixSum {
     public static void prefixSum(int num[] ){
         int preArr [] = new int[num.length];//declare prefix array
         int sum = 0;
