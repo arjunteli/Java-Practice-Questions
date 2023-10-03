@@ -1,5 +1,5 @@
 import java.util.*;
-public class decimalToBinary {
+public class DecimalToBinary {
     public static void decToBinary(int dec){
         int pow =0, bin=0; 
 
