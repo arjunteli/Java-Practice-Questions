@@ -1,5 +1,5 @@
 import java.util.*;
-public class binarySearch{
+public class BinarySearch{
     public static int binaryseach(int numbers[],int key){
         int start = 0;int end = numbers.length-1;
         while(start<=end){
