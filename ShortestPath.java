@@ -1,5 +1,5 @@
 import java.util.*;
-public class shortestPath{
+public class ShortestPath{
     public static void displacement(String path){
         int x=0,y=0;
         for(int i=0;i<path.length();i++){
