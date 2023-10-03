@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class checkNumberIsPositiveORNegative {
+public class CheckNumberIsPositiveORNegative {
     public static void main(String[] args) {
         Scanner sc =new Scanner (System.in);
 
