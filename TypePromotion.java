@@ -1,6 +1,6 @@
 import javax.sound.midi.SysexMessage;
 
-public class typePromotion{
+public class TypePromotion{
     public static void main(String[] args) {
         // char a = 'c';
         // short b=1;
