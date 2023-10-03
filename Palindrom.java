@@ -1,5 +1,5 @@
 import java.util.*;
-public class palindrom{
+public class Palindrom{
     public static boolean checkPalindrome(String name ){
         boolean bool = true;
         for(int i=0; i<=name.length()/2 ;i++){
