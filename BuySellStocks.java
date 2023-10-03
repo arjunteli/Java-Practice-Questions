@@ -1,5 +1,5 @@
 import java.util.*;
-public class buySellStocks {
+public class BuySellStocks {
     public static int profit(int prices[]){
         int profit = 0;
         int buyPrice = Integer.MAX_VALUE;
