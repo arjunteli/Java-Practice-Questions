@@ -1,4 +1,4 @@
-public class arrayHW1 {
+public class ArrayHW1 {
     public static boolean checkDuplicate(int num []){
         boolean bl = true ;
         for(int i = 0; i< num.length-1;i++){
