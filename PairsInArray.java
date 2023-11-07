@@ -1,4 +1,4 @@
-public class pairsInArray {
+public class PairsInArray {
     public static void printPairs(int numbers[]){
         for(int i = 0;i<numbers.length;i++){
             for(int j = i+1;j<numbers.length;j++){
