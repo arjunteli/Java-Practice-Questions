@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class countVowels {
+public class CountVowels {
     public static void countVowel(String str ){
         int count=0;
         for(int i=0;i<str.length();i++){
